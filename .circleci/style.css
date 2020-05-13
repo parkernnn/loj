@@ -1,0 +1,161 @@
+
+body
+{
+    font-size: 78px
+[ppl
+    margin: 0px;
+    padding: 0px;
+    background-image: url(../resources/back.jpg);
+    background-color: #d6e8f9;
+    background-repeat: repeat-x;
+}
+
+.sidetext
+{
+    padding-left: 10px;
+    font-size: 12px;
+    font-family: Arial;
+    padding-bottom: 20px;
+    text-align:left;
+}
+
+.caretext
+{
+    padding-left: 0px;
+    font-size: 9px;
+    font-family: Arial;
+    padding-bottom: 0px;
+    padding-top:0px;
+    text-align:left;
+}
+
+.careheadertext
+{
+    padding-left: 0px;
+    font-size: 11px;
+    font-family: Arial;
+    padding-bottom: 0px;
+    text-align:left;
+}
+
+.link
+{
+    padding-left: 10px;
+    font-size: 11px;
+    font-family: Arial;
+    padding-bottom: 20px;
+    text-align:center;
+}
+
+
+.divCare
+{
+    height: 405px;
+    overflow:auto;
+}
+
+
+a.scopyright
+{
+    display: block;
+    width: 125px;
+    height: 28px;
+    background: url( ../resources/copyrightbutton.jpg ) 0px 0px no-repeat;
+    text-decoration: none;
+}
+
+
+a:hover.scopyright
+{
+    background-position: -125px 0px;
+}
+
+a.slicense
+{
+    display: block;
+    width: 121px;
+    height: 28px;
+    background: url( ../resources/licensebutton.jpg ) 0px 0px no-repeat;
+    text-decoration: none;
+}
+
+
+a:hover.slicense
+{
+    background-position: -121px 0px;
+}
+
+a.scare
+{
+    display: block;
+    width: 99px;
+    height: 28px;
+    background: url( ../resources/carebutton.jpg ) 0px 0px no-repeat;
+    text-decoration: none;
+}
+
+
+a:hover.scare
+{
+    background-position: -99px 0px;
+}
+
+a.sphotogifts
+{
+    display: block;
+    width: 80px;
+    height: 28px;
+    background: url( ../resources/photogiftsbutton.jpg ) 0px 0px no-repeat;
+    text-decoration: none;
+}
+
+
+a:hover.sphotogifts
+{
+    background-position: -80px 0px;
+}
+
+a.shome
+{
+    display: block;
+    width: 65px;
+    height: 28px;
+    background: url( ../resources/homebutton.jpg ) 0px 0px no-repeat;
+    text-decoration: none;
+}
+
+
+a:hover.shome
+{
+    background-position: -65px 0px;
+}
+
+ul
+{	margin-top:1px;
+	margin-bottom:1px;
+	list-style-type:disc;
+	padding-bottom:0px;
+	padding-top:0px;
+}
+
+li
+{
+	padding-bottom:1px;
+	padding-top:0px;
+}
+
+.divThumbs
+{
+    height:405px;
+    overflow:auto;
+    background-color: #ffffff;
+	vertical-align:top;
+}
+
+#tableThumbs
+{
+	height:100%;
+    padding-bottom:4px;
+    background-color: #ffffff;
+}
+
